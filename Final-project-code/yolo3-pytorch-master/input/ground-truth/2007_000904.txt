@@ -1,0 +1,3 @@
+cow 237 167 338 263
+person 17 113 165 238
+horse 1 213 305 375 difficult
